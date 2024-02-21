@@ -1,0 +1,7 @@
+streamlit 
+openai
+streamlit 
+pandas 
+gensim  
+nltk
+openai
